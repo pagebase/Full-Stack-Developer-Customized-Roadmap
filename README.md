@@ -9,6 +9,7 @@
 [ ] JS
 
 [ ] React JS
+---
 
 # 2. Backend
 
@@ -17,6 +18,7 @@
 [ ] Python
 
     [ ] Django
+---
 
 # 3. Database
 
@@ -27,6 +29,7 @@
 ## Non-Relational
 
 [ ] MongoDB
+---
 
 # 4. Cloud database
 
