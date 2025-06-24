@@ -1,24 +1,24 @@
 # 1. Frontend
 
-[X] HTML
+- [X] HTML
 
-[ ] CSS
+- [ ] CSS
 
-[ ] Tailwind
+- [ ] Tailwind
 
-[ ] JS
+- [ ] JS
 
-[ ] React JS
+- [ ] React JS
 
 ---
 
 # 2. Backend
 
-[ ] Node JS
+- [ ] Node JS
 
-[ ] Python
+- [ ] Python
 
-    [ ] Django
+    - [ ] Django
     
 ---
 
@@ -26,15 +26,15 @@
 
 ## Relational
 
-[ ] MySQL
+- [ ] MySQL
 
 ## Non-Relational
 
-[ ] MongoDB
+- [ ] MongoDB
 
 ---
 
 # 4. Cloud database
 
-[ ] Azure
-[ ] AWS
+- [ ] Azure
+- [ ] AWS
