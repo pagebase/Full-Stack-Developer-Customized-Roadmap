@@ -1,6 +1,6 @@
 # 1. Frontend
 
-[x] HTML
+[X] HTML
 
 [ ] CSS
 
@@ -20,13 +20,13 @@
 
 # 3. Database
 
-## Non relational
-
-[ ] MongoDB
-
 ## Relational
 
 [ ] MySQL
+
+## Non-Relational
+
+[ ] MongoDB
 
 # 4. Cloud database
 
