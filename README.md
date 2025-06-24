@@ -2,7 +2,7 @@
 
 [X] HTML
 
-[ ] CSS
+[] CSS
 
 [ ] Tailwind
 
@@ -37,4 +37,5 @@
 # 4. Cloud database
 
 [ ] Azure
+
 [ ] AWS
