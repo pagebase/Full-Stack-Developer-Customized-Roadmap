@@ -9,6 +9,7 @@
 [ ] JS
 
 [ ] React JS
+
 ---
 
 # 2. Backend
@@ -18,6 +19,7 @@
 [ ] Python
 
     [ ] Django
+    
 ---
 
 # 3. Database
