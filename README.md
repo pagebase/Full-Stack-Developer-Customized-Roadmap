@@ -1,6 +1,6 @@
 # 1. Frontend
 
-[X]HTML
+[X] HTML
 
 [ ] CSS
 
