@@ -2,7 +2,7 @@
 
 # 1. Frontend
 
-- [X] HTML
+- [ ] HTML
 
 - [ ] CSS
 
