@@ -40,5 +40,4 @@
 
 # 4. Cloud database
 
-- [ ] Azure
 - [ ] AWS
